@@ -37,8 +37,8 @@ function App() {
       <h1> Chai aur react</h1>
       <h2> Counter Value: {counter}</h2>
 
-      <button onClick={addvalue}
-      >Add Value</button><br></br>
+      <button onClick={addvalue}>Add Value</button><br></br>
+      
       <button onClick={removevalue}>Decrease Value</button>
       
     </>
